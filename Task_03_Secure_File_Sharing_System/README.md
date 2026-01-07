@@ -42,5 +42,3 @@ This is a simple file sharing web application built using Flask and SQLAlchemy. 
 - Once validated, go to `/upload` to upload a file with a password.
 - To download a file, go to `/download/<file_id>` and enter the file's password. Of course, non-admins can download files.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
