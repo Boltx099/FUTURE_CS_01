@@ -1,7 +1,7 @@
 # FUTURE_CS
 
-
-Task 1 (Web Application Security Testing)
+**
+Task 1 (Web Application Security Testing)**
 
  Task: Conduct security testing on a sample web application to identify
 vulnerabilities like SQL injection, XSS, and authentication flaws.
@@ -12,8 +12,8 @@ vulnerabilities like SQL injection, XSS, and authentication flaws.
 
  ---
 
-Task 2 ( Security Alert Monitoring & Incident
-Response)
+**Task 2 ( Security Alert Monitoring & Incident
+Response)**
 
  Task: Monitor simulated security alerts using a SIEM tool, identify suspicious
 activities, classify incidents, and draft an incident response report.
@@ -21,11 +21,12 @@ activities, classify incidents, and draft an incident response report.
   Skills Gained: Log analysis, alert triage, incident classification, SOC
 operations basics.
 
-  Tools: Elastic Stack (ELK), Splunk Free Trial, sample log files.
+Tools: Splunk 
+
+
 ---
-
-
-Task 3 (Secure File Sharing System)
+**
+Task 3 (Secure File Sharing System)**
 
 
 
