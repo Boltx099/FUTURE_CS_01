@@ -1,7 +1,7 @@
 # FUTURE_CS
 
-**
-Task 1 (Web Application Security Testing)**
+
+**Task 1 (Web Application Security Testing)**
 
  Task: Conduct security testing on a sample web application to identify
 vulnerabilities like SQL injection, XSS, and authentication flaws.
@@ -25,8 +25,8 @@ Tools: Splunk
 
 
 ---
-**
-Task 3 (Secure File Sharing System)**
+
+**Task 3 (Secure File Sharing System)**
 
 
 
